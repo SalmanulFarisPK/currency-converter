@@ -1,7 +1,3 @@
-# currency-converter
-A simple and responsive currency converter built with HTML, CSS, and JavaScript, using live exchange-rate data from an external API.
-
-
 # 💱 Currency Converter
 
 A simple and responsive **Currency Converter web application** built using **HTML, CSS, and JavaScript**. The application allows users to select two currencies, enter an amount, and convert it using live exchange-rate data from an external currency API.
